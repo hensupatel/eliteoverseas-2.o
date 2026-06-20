@@ -15681,3 +15681,6 @@ img {
 }
 .w-webflow-badge { display: none !important; }
 
+
+.rt-logo img { filter: brightness(0) invert(1); }
+
